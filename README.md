@@ -27,7 +27,7 @@ The project uses the following cleaned CSV files:
 
 2.aggregated_user.csv: User registration and activity trends
 
-3. .csv: Insurance payment data across India
+.csv: Insurance payment data across India
 
 4.map_transaction.csv, map_user.csv, map_insurance.csv: Geo-mapped summaries
 
